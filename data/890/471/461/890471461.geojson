@@ -74,7 +74,6 @@
         85679583,
         102191569,
         85632403,
-        1108756873,
         1108808545
     ],
     "wof:breaches":[],
@@ -100,7 +99,7 @@
     "wof:id":890471461,
     "wof:lastmodified":1695886951,
     "wof:name":"Zhongshan",
-    "wof:parent_id":1108756873,
+    "wof:parent_id":85679583,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
